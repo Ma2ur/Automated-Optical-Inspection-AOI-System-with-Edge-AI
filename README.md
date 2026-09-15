@@ -58,6 +58,7 @@ It is recommended to use a virtual environment:
 ```bash
 pip install torch torchvision
 pip install anomalib opencv-python numpy pyserial
+```
 
 **3. Model File Structure**
 Ensure that the exported TorchScript model weights are placed exactly in this directory structure:
