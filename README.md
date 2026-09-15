@@ -73,7 +73,7 @@ python detection_main.py
 
 ---
 
-## 🎮 Operation & Controls
+## Operation & Controls
 
 Upon launch, the script establishes hardware communication and enters a standby state awaiting user input.
 
